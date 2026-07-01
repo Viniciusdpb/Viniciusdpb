@@ -7,7 +7,7 @@ Tenho interesse nas áreas de Desenvolvimento de Software, Desenvolvimento Web, 
 
 Durante o curso técnico, desenvolvi conhecimentos em:
 
-Banco de Dados
+Banco de Dados:
 Desenvolvimento de Sistemas
 Desenvolvimento Web
 Desenvolvimento de Aplicativos Mobile
