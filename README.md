@@ -20,7 +20,7 @@ Projeto desenvolvido:
 Rede de Estágio
 Projeto acadêmico de um aplicativo voltado para conectar estudantes a oportunidades de estágio, colocando em prática conceitos de desenvolvimento de sistemas, banco de dados e programação.
 
-Objetivo
+Objetivo:
 Meu objetivo é iniciar minha carreira na área de tecnologia, atuando como Desenvolvedor de Software ou Analista de Dados, contribuindo para o desenvolvimento de soluções eficientes e continuando meu aprendizado profissional.
 
 Contato
